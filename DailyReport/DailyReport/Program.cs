@@ -29,14 +29,14 @@ namespace DailyReport
             Console.WriteLine("Do you need help with anything");
             bool help = Convert.ToBoolean(Console.ReadLine());
             Console.WriteLine();
-            //Fourth question using boolean data typr to find out if help is needed
+            //Fourth question using boolean data type to find out if help is needed
 
             Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics");
-            Console.WriteLine();
+            string share = Console.ReadLine();
             //Asking user for specific phrase answer
 
             Console.WriteLine("Is there any other feedback you’d like to provide? Please be specific.");
-            Console.WriteLine();
+            string feedback = Console.ReadLine();
             //Asking user for specific phrase answer
 
             Console.WriteLine("How many hours did you study today?");
