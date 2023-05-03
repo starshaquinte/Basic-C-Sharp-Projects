@@ -32,18 +32,20 @@ namespace DailyReport
             //Fourth question using boolean data typr to find out if help is needed
 
             Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics");
+            Console.WriteLine();
             //Asking user for specific phrase answer
 
             Console.WriteLine("Is there any other feedback you’d like to provide? Please be specific.");
+            Console.WriteLine();
             //Asking user for specific phrase answer
 
             Console.WriteLine("How many hours did you study today?");
             int hours = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("You studied for  " + hours);
-            //Last question using integer data type to find out the amount of hurs studied
+            //Last question using integer data type to find out the amount of hours studied
 
             Console.WriteLine
-            Printf("Thank you for your answers. An Instructor will respond to this shortly.Have a great day!");
+            ("Thank you for your answers. An Instructor will respond to this shortly.Have a great day!");
             //End of program
 
 
