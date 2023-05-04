@@ -1,0 +1,4 @@
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Release\net5.0\MathAndComparisonAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Release\net5.0\MathAndComparisonAssignment.AssemblyInfoInputs.cache
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Release\net5.0\MathAndComparisonAssignment.AssemblyInfo.cs
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Release\net5.0\MathAndComparisonAssignment.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\bin\Debug\net5.0\MathAndComparisonAssignment.exe
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\bin\Debug\net5.0\MathAndComparisonAssignment.deps.json
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\bin\Debug\net5.0\MathAndComparisonAssignment.runtimeconfig.json
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\bin\Debug\net5.0\MathAndComparisonAssignment.runtimeconfig.dev.json
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\bin\Debug\net5.0\MathAndComparisonAssignment.dll
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\bin\Debug\net5.0\ref\MathAndComparisonAssignment.dll
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\bin\Debug\net5.0\MathAndComparisonAssignment.pdb
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Debug\net5.0\MathAndComparisonAssignment.csproj.AssemblyReference.cache
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Debug\net5.0\MathAndComparisonAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Debug\net5.0\MathAndComparisonAssignment.AssemblyInfoInputs.cache
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Debug\net5.0\MathAndComparisonAssignment.AssemblyInfo.cs
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Debug\net5.0\MathAndComparisonAssignment.csproj.CoreCompileInputs.cache
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Debug\net5.0\MathAndComparisonAssignment.dll
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Debug\net5.0\ref\MathAndComparisonAssignment.dll
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Debug\net5.0\MathAndComparisonAssignment.pdb
+C:\Users\stars\source\repos\MathAndComparisonAssignment\MathAndComparisonAssignment\obj\Debug\net5.0\MathAndComparisonAssignment.genruntimeconfig.cache
