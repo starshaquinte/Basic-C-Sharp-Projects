@@ -7,8 +7,9 @@ namespace ConsoleApplication
         static void Main(string[] args)
         {
             int inputOne = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(inputOne *50);
+            Console.WriteLine(inputOne * 50);
             //line of code takes user input and multiplies it by 50
+
 
             int inputTwo = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(inputTwo + 25);
@@ -19,14 +20,15 @@ namespace ConsoleApplication
             Console.WriteLine(inputThree / 12.5);
             //line of code takes user input and divides it by 12.5
 
-            bool inputFour = > 50;
+            int inputFour = Convert.ToInt32(Console.ReadLine());
+            bool trueOrFalse = inputFour > 50;
             Console.WriteLine(trueOrFalse.ToString());
             Console.ReadLine();
             //line of code takes user input and checks if its greater than 50
 
 
-            int inputFive = (inputFive % 7);
-            Console.WriteLine(inputFive);
+            int inputFive = Convert.ToInt32(Console.ReadLine());    
+            Console.WriteLine(inputFive % 7);
             Console.ReadLine();
             //line of code takes user input divides it by 7 and prints remainder to console
 
