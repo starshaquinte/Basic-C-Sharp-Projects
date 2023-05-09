@@ -28,15 +28,16 @@ namespace Branching
 
                 int dimension = Convert.ToInt32(Console.ReadLine());
             }
-            if dimension (packageheight * packagewidth * packagelength > 50)
+            
+            result = packageheight * packagewidth * packagelength;
+            Console.WriteLine(result * weight) / 100;
 
-            {
-             Console.WriteLine("Package too big to be shipped via Package Express.");
-            }
+            { Console.WriteLine("Package too big to be shipped via Package Express.");
+           
             else Console.WriteLine(result / 100);
-
-            Console.WriteLine("Your estimated total for shipping this package is: " + result / 100);
-
+         
+             Console.WriteLine("Your estimated total for shipping this package is: " + result / 100);
+            }
             Console.WriteLine("Thank you!");
             Console.ReadLine();
 
