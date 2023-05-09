@@ -27,7 +27,7 @@ namespace Branching
                 int packageLength = Convert.ToInt32(Console.ReadLine()); //int data type to store package length
 
                 int dimension = packageHeight + packageWidth + packageLength; //defines dimension 
-                if (dimension < 50)  
+                if (dimension > 50)  //if dimension is greater than 50 
                 {
 
                     Console.WriteLine("Package too big to be shipped via Package Express.");
