@@ -45,7 +45,14 @@ namespace ConsoleApp
             }
 
             while (!isGuessed); //while statement
-          
+            Console.WriteLine("Enter a fruit: ");
+            String fruit = Console.ReadLine();
+
+            while (fruit == "")
+            {
+            Console.WriteLine("Enter a fruit: ");
+            String fruit = Console.ReadLine();
+            }
 
             Console.Read();
 
