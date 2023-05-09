@@ -36,7 +36,7 @@ namespace Branching
                 {
                     int result = (packageHeight * packageWidth * packageLength * packageWeight) / 100;
 
-                    Console.WriteLine("Your estimated total for shipping this package is: $" + result / 100);
+                    Console.WriteLine("Your estimated total for shipping this package is: $" + result);
                     Console.WriteLine("Thank you!");
                     Console.ReadLine();
 
