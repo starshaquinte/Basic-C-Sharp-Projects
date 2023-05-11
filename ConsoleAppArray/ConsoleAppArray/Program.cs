@@ -25,9 +25,9 @@ using System.Collections.Generic;
         Console.WriteLine("Select an index of the array");
         int number = Convert.ToInt32(Console.ReadLine());
 
-        if (stringArray >= 0 && <[4]
+        if (number >= 0 && number < numArray.Length)
         {
-            Console.WriteLine(string[] stringArray = new string[4];)
+            Console.WriteLine(numArray[0]);
          }
 
         else
