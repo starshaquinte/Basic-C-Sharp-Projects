@@ -1,0 +1,16 @@
+C:\Users\stars\source\repos\ConsoleAppPartOne\ConsoleAppPartOne\obj\Debug\net5.0\ConsoleAppPartOne.csproj.AssemblyReference.cache
+C:\Users\stars\source\repos\ConsoleAppPartOne\ConsoleAppPartOne\obj\Debug\net5.0\ConsoleAppPartOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stars\source\repos\ConsoleAppPartOne\ConsoleAppPartOne\obj\Debug\net5.0\ConsoleAppPartOne.AssemblyInfoInputs.cache
+C:\Users\stars\source\repos\ConsoleAppPartOne\ConsoleAppPartOne\obj\Debug\net5.0\ConsoleAppPartOne.AssemblyInfo.cs
+C:\Users\stars\source\repos\ConsoleAppPartOne\ConsoleAppPartOne\obj\Debug\net5.0\ConsoleAppPartOne.csproj.CoreCompileInputs.cache
+C:\Users\stars\source\repos\ConsoleAppPartOne\ConsoleAppPartOne\bin\Debug\net5.0\ConsoleAppPartOne.exe
+C:\Users\stars\source\repos\ConsoleAppPartOne\ConsoleAppPartOne\bin\Debug\net5.0\ConsoleAppPartOne.deps.json
+C:\Users\stars\source\repos\ConsoleAppPartOne\ConsoleAppPartOne\bin\Debug\net5.0\ConsoleAppPartOne.runtimeconfig.json
+C:\Users\stars\source\repos\ConsoleAppPartOne\ConsoleAppPartOne\bin\Debug\net5.0\ConsoleAppPartOne.runtimeconfig.dev.json
+C:\Users\stars\source\repos\ConsoleAppPartOne\ConsoleAppPartOne\bin\Debug\net5.0\ConsoleAppPartOne.dll
+C:\Users\stars\source\repos\ConsoleAppPartOne\ConsoleAppPartOne\bin\Debug\net5.0\ref\ConsoleAppPartOne.dll
+C:\Users\stars\source\repos\ConsoleAppPartOne\ConsoleAppPartOne\bin\Debug\net5.0\ConsoleAppPartOne.pdb
+C:\Users\stars\source\repos\ConsoleAppPartOne\ConsoleAppPartOne\obj\Debug\net5.0\ConsoleAppPartOne.dll
+C:\Users\stars\source\repos\ConsoleAppPartOne\ConsoleAppPartOne\obj\Debug\net5.0\ref\ConsoleAppPartOne.dll
+C:\Users\stars\source\repos\ConsoleAppPartOne\ConsoleAppPartOne\obj\Debug\net5.0\ConsoleAppPartOne.pdb
+C:\Users\stars\source\repos\ConsoleAppPartOne\ConsoleAppPartOne\obj\Debug\net5.0\ConsoleAppPartOne.genruntimeconfig.cache
