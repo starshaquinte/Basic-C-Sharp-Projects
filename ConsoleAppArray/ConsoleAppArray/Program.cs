@@ -7,8 +7,9 @@ using System.Collections.Generic;
         {
 
         Console.WriteLine("Select an index of the array:");
+        int input = Convert.ToInt32(Console.ReadLine());
 
-        Console.ReadLine();
+
         string[] stringArray = new string[4];
 
         stringArray[0] = "somewhere";
@@ -16,33 +17,40 @@ using System.Collections.Generic;
         stringArray[2] = "the";
         stringArray[3] = "rainbow";
 
-        Console.WriteLine(stringArray);
+        Console.WriteLine(stringArray[input]);
         Console.ReadLine();
 
 
 
-        int[] numArray = new int[] { 46, 24, 75, 468, 763 };
-        Console.WriteLine("Select an index of the array");
+        int[] numarray = new int[] { 46, 24, 75, 468, 763 };
+        Console.WriteLine("select an index of the array");
         int number = Convert.ToInt32(Console.ReadLine());
 
-        if (number >= 0 && number < numArray.Length)
+        if (number >= 0 && number < numarray.Length)
         {
-            Console.WriteLine(numArray[0]);
-         }
+            Console.WriteLine(numarray[number]);
+        }
 
         else
         {
-            Console.WriteLine("The index you selected does not exist");
+            Console.WriteLine("the index you selected does not exist");
 
         }
+
+
         List<string> intList = new List<string>();
+
+
         intList.Add("My");
         intList.Add("Name");
         intList.Add("is");
         intList.Add("Starsha");
 
         Console.WriteLine("Select an index of the list: ");
-        Console.ReadLine();
+        int index = Console.ReadLine(intList[0]);
+
+
+
 
 
 
