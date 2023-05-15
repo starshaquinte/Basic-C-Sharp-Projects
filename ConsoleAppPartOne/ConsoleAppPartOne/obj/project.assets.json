@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stars\\source\\repos\\ConsoleAppPartOne\\ConsoleAppPartOne\\ConsoleAppPartOne.csproj",
-      "projectName": "ConsoleAppPartOne",
-      "projectPath": "C:\\Users\\stars\\source\\repos\\ConsoleAppPartOne\\ConsoleAppPartOne\\ConsoleAppPartOne.csproj",
+      "projectUniqueName": "C:\\Users\\stars\\source\\repos\\ConsoleAppPartOne\\ConsoleAppPartOne\\ConsoleAppSixPart.csproj",
+      "projectName": "ConsoleAppSixPart",
+      "projectPath": "C:\\Users\\stars\\source\\repos\\ConsoleAppPartOne\\ConsoleAppPartOne\\ConsoleAppSixPart.csproj",
       "packagesPath": "C:\\Users\\stars\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\stars\\source\\repos\\ConsoleAppPartOne\\ConsoleAppPartOne\\obj\\",
       "projectStyle": "PackageReference",
