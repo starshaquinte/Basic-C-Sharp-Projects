@@ -1,0 +1,16 @@
+C:\Users\stars\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\bin\Debug\net5.0\ConsoleAppStringsAndIntegers.exe
+C:\Users\stars\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\bin\Debug\net5.0\ConsoleAppStringsAndIntegers.deps.json
+C:\Users\stars\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\bin\Debug\net5.0\ConsoleAppStringsAndIntegers.runtimeconfig.json
+C:\Users\stars\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\bin\Debug\net5.0\ConsoleAppStringsAndIntegers.runtimeconfig.dev.json
+C:\Users\stars\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\bin\Debug\net5.0\ConsoleAppStringsAndIntegers.dll
+C:\Users\stars\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\bin\Debug\net5.0\ref\ConsoleAppStringsAndIntegers.dll
+C:\Users\stars\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\bin\Debug\net5.0\ConsoleAppStringsAndIntegers.pdb
+C:\Users\stars\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\net5.0\ConsoleAppStringsAndIntegers.csproj.AssemblyReference.cache
+C:\Users\stars\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\net5.0\ConsoleAppStringsAndIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stars\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\net5.0\ConsoleAppStringsAndIntegers.AssemblyInfoInputs.cache
+C:\Users\stars\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\net5.0\ConsoleAppStringsAndIntegers.AssemblyInfo.cs
+C:\Users\stars\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\net5.0\ConsoleAppStringsAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\stars\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\net5.0\ConsoleAppStringsAndIntegers.dll
+C:\Users\stars\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\net5.0\ref\ConsoleAppStringsAndIntegers.dll
+C:\Users\stars\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\net5.0\ConsoleAppStringsAndIntegers.pdb
+C:\Users\stars\source\repos\ConsoleAppStringsAndIntegers\ConsoleAppStringsAndIntegers\obj\Debug\net5.0\ConsoleAppStringsAndIntegers.genruntimeconfig.cache
