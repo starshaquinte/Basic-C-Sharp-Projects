@@ -1,0 +1,16 @@
+C:\Users\stars\source\repos\MainMethod\MainMethod\bin\Debug\net5.0\MainMethod.exe
+C:\Users\stars\source\repos\MainMethod\MainMethod\bin\Debug\net5.0\MainMethod.deps.json
+C:\Users\stars\source\repos\MainMethod\MainMethod\bin\Debug\net5.0\MainMethod.runtimeconfig.json
+C:\Users\stars\source\repos\MainMethod\MainMethod\bin\Debug\net5.0\MainMethod.runtimeconfig.dev.json
+C:\Users\stars\source\repos\MainMethod\MainMethod\bin\Debug\net5.0\MainMethod.dll
+C:\Users\stars\source\repos\MainMethod\MainMethod\bin\Debug\net5.0\ref\MainMethod.dll
+C:\Users\stars\source\repos\MainMethod\MainMethod\bin\Debug\net5.0\MainMethod.pdb
+C:\Users\stars\source\repos\MainMethod\MainMethod\obj\Debug\net5.0\MainMethod.csproj.AssemblyReference.cache
+C:\Users\stars\source\repos\MainMethod\MainMethod\obj\Debug\net5.0\MainMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stars\source\repos\MainMethod\MainMethod\obj\Debug\net5.0\MainMethod.AssemblyInfoInputs.cache
+C:\Users\stars\source\repos\MainMethod\MainMethod\obj\Debug\net5.0\MainMethod.AssemblyInfo.cs
+C:\Users\stars\source\repos\MainMethod\MainMethod\obj\Debug\net5.0\MainMethod.csproj.CoreCompileInputs.cache
+C:\Users\stars\source\repos\MainMethod\MainMethod\obj\Debug\net5.0\MainMethod.dll
+C:\Users\stars\source\repos\MainMethod\MainMethod\obj\Debug\net5.0\ref\MainMethod.dll
+C:\Users\stars\source\repos\MainMethod\MainMethod\obj\Debug\net5.0\MainMethod.pdb
+C:\Users\stars\source\repos\MainMethod\MainMethod\obj\Debug\net5.0\MainMethod.genruntimeconfig.cache
