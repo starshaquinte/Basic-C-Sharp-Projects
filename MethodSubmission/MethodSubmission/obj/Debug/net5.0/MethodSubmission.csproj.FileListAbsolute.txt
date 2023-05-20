@@ -1,0 +1,16 @@
+C:\Users\stars\source\repos\MethodSubmission\MethodSubmission\obj\Debug\net5.0\MethodSubmission.csproj.AssemblyReference.cache
+C:\Users\stars\source\repos\MethodSubmission\MethodSubmission\obj\Debug\net5.0\MethodSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stars\source\repos\MethodSubmission\MethodSubmission\obj\Debug\net5.0\MethodSubmission.AssemblyInfoInputs.cache
+C:\Users\stars\source\repos\MethodSubmission\MethodSubmission\obj\Debug\net5.0\MethodSubmission.AssemblyInfo.cs
+C:\Users\stars\source\repos\MethodSubmission\MethodSubmission\obj\Debug\net5.0\MethodSubmission.csproj.CoreCompileInputs.cache
+C:\Users\stars\source\repos\MethodSubmission\MethodSubmission\bin\Debug\net5.0\MethodSubmission.exe
+C:\Users\stars\source\repos\MethodSubmission\MethodSubmission\bin\Debug\net5.0\MethodSubmission.deps.json
+C:\Users\stars\source\repos\MethodSubmission\MethodSubmission\bin\Debug\net5.0\MethodSubmission.runtimeconfig.json
+C:\Users\stars\source\repos\MethodSubmission\MethodSubmission\bin\Debug\net5.0\MethodSubmission.runtimeconfig.dev.json
+C:\Users\stars\source\repos\MethodSubmission\MethodSubmission\bin\Debug\net5.0\MethodSubmission.dll
+C:\Users\stars\source\repos\MethodSubmission\MethodSubmission\bin\Debug\net5.0\ref\MethodSubmission.dll
+C:\Users\stars\source\repos\MethodSubmission\MethodSubmission\bin\Debug\net5.0\MethodSubmission.pdb
+C:\Users\stars\source\repos\MethodSubmission\MethodSubmission\obj\Debug\net5.0\MethodSubmission.dll
+C:\Users\stars\source\repos\MethodSubmission\MethodSubmission\obj\Debug\net5.0\ref\MethodSubmission.dll
+C:\Users\stars\source\repos\MethodSubmission\MethodSubmission\obj\Debug\net5.0\MethodSubmission.pdb
+C:\Users\stars\source\repos\MethodSubmission\MethodSubmission\obj\Debug\net5.0\MethodSubmission.genruntimeconfig.cache
