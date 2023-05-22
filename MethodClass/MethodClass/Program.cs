@@ -8,8 +8,8 @@ namespace MethodClass
         {
             Math obj = new Math();
 
-            Console.WriteLine(obj.CallingMethods(8, 4));
-            Console.WriteLine(obj.CallingMethods(num1 + num2));
+            obj.CallingMethods(8, 4);
+            obj.CallingMethods(num1, num2);
             Console.ReadLine();
 
         }
