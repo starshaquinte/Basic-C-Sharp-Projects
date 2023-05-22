@@ -1,0 +1,16 @@
+C:\Users\stars\source\repos\ClassSubmission\ClassSubmission\bin\Debug\net5.0\ClassSubmission.exe
+C:\Users\stars\source\repos\ClassSubmission\ClassSubmission\bin\Debug\net5.0\ClassSubmission.deps.json
+C:\Users\stars\source\repos\ClassSubmission\ClassSubmission\bin\Debug\net5.0\ClassSubmission.runtimeconfig.json
+C:\Users\stars\source\repos\ClassSubmission\ClassSubmission\bin\Debug\net5.0\ClassSubmission.runtimeconfig.dev.json
+C:\Users\stars\source\repos\ClassSubmission\ClassSubmission\bin\Debug\net5.0\ClassSubmission.dll
+C:\Users\stars\source\repos\ClassSubmission\ClassSubmission\bin\Debug\net5.0\ref\ClassSubmission.dll
+C:\Users\stars\source\repos\ClassSubmission\ClassSubmission\bin\Debug\net5.0\ClassSubmission.pdb
+C:\Users\stars\source\repos\ClassSubmission\ClassSubmission\obj\Debug\net5.0\ClassSubmission.csproj.AssemblyReference.cache
+C:\Users\stars\source\repos\ClassSubmission\ClassSubmission\obj\Debug\net5.0\ClassSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stars\source\repos\ClassSubmission\ClassSubmission\obj\Debug\net5.0\ClassSubmission.AssemblyInfoInputs.cache
+C:\Users\stars\source\repos\ClassSubmission\ClassSubmission\obj\Debug\net5.0\ClassSubmission.AssemblyInfo.cs
+C:\Users\stars\source\repos\ClassSubmission\ClassSubmission\obj\Debug\net5.0\ClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\stars\source\repos\ClassSubmission\ClassSubmission\obj\Debug\net5.0\ClassSubmission.dll
+C:\Users\stars\source\repos\ClassSubmission\ClassSubmission\obj\Debug\net5.0\ref\ClassSubmission.dll
+C:\Users\stars\source\repos\ClassSubmission\ClassSubmission\obj\Debug\net5.0\ClassSubmission.pdb
+C:\Users\stars\source\repos\ClassSubmission\ClassSubmission\obj\Debug\net5.0\ClassSubmission.genruntimeconfig.cache
