@@ -14,7 +14,7 @@ namespace MethodsAndObjects
 
         public void SayName()
         {
-            Console.WriteLine("{0} {1}", "FirstName", "LastName");
+            Console.WriteLine("{0} {1}", FirstName, LastName);
         }
     
        
