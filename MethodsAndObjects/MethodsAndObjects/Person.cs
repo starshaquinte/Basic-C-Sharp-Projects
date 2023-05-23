@@ -8,13 +8,14 @@ namespace MethodsAndObjects
 {
     class Person
     {
+        SayName()
         public string FirstName;
         public string LastName;
     }
 
-    public static void SayName()
+    public void SayName()
     {
-        Console.WriteLine("Name: [full name]");
+        Console.WriteLine("FirstName", "LastName");
 
     }
 }

@@ -6,11 +6,10 @@ namespace MethodsAndObjects
     {
         static void Main(string[] args)
         {
-            Person obj = new Person();
 
             Employee employee = new Employee();
-            FirstName.Sample();
-            LastName.Student();
+            employee.FirstName = "Sample";
+            employee.LastName = "Student";
         }
     }
 }
