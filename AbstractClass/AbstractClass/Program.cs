@@ -7,8 +7,10 @@ namespace AbstractClass
         static void Main(string[] args)
         {
             Employee employee = new Employee();
-            FirstName = "Sample";
-            LastName = "Student";
+            employee.FirstName = "Sample"; //setting the employee properties
+            employee.LastName = "Student";
+            employee.SayName(); //calling the method from the instantiated object
+
 
 
         }

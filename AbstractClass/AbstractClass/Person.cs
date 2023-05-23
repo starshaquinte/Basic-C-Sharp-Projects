@@ -8,12 +8,11 @@ namespace AbstractClass
 {
     public abstract class Person
     {
-        string FirstName;
-        string LastName;
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        
+        public abstract void SayName(); //any inheriting class will need to implement
+        
     }
     
-    public string SayName()
-    {
-
-    }
 }
