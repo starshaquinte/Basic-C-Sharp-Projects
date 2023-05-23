@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace AbstractClass
 {
-    class Employee
+    class Employee : Person
     {
+
+    }
+
+    public string SayName()
+    {
+
     }
 }
