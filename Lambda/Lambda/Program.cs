@@ -37,7 +37,7 @@ namespace Lambda
             }
 
             //using Lambda to find employees with the name Joe
-            List<Employee> Joes2 = employees.Where(x => x.ID > FirstName == "Joes").ToList();
+            List<Employee> Joes2 = employees.Where(x => x.FirstName == "Joe").ToList();
             foreach (Employee item in Joes)
             {
                 Console.WriteLine(item.FirstName + " " + item.LastName + " " + item.ID);
