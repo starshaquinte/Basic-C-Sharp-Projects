@@ -63,10 +63,33 @@ namespace CarInsurance.Controllers
                 {
                     insuree.Quote += 25;
                 }
-
-                if(insuree.DUI)
+                if (insuree.CarYear < 2000)
+                {
+                    insuree.Quote += 25;
+                }
+                if (insuree.CarYear > 2015)
+                {
+                    insuree.Quote += 25;
+                }
+                if (insuree.CarMake = Porsche)
+                {
+                    insuree.Quote += 25;
+                }    
+                if (insuree.CarMake = Porchee && insuree.CarModel = 911 Carrera) 
+                {
+                    insuree.Quote += 25;
+                }
+                for (int i = 0; i < insuree.SpeedingTickets; i++)
+                {
+                    insuree.Quote += 10;
+                }
+                if (insuree.DUI)
                 {
                     insuree.Quote *= 1.25m; 
+                }
+                if (insuree.CoverageType = full) 
+                {
+                    insuree.Quote *= 1.50m;
                 }
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
