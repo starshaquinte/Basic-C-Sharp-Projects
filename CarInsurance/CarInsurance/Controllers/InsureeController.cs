@@ -14,6 +14,11 @@ namespace CarInsurance.Controllers
     {
         private InsuranceEntities db = new InsuranceEntities();
 
+
+        public ActionResult Admin()
+        {
+            return View(db.Insurees.ToList());
+        }
         // GET: Insuree
         public ActionResult Index()
         {
@@ -71,11 +76,11 @@ namespace CarInsurance.Controllers
                 {
                     insuree.Quote += 25;
                 }
-                if (insuree.CarMake = Porsche)
+                if (insuree.CarMake == "Porsche")
                 {
                     insuree.Quote += 25;
                 }    
-                if (insuree.CarMake = Porchee && insuree.CarModel = 911 Carrera) 
+                if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera") 
                 {
                     insuree.Quote += 25;
                 }
@@ -87,9 +92,9 @@ namespace CarInsurance.Controllers
                 {
                     insuree.Quote *= 1.25m; 
                 }
-                if (insuree.CoverageType = full) 
+                if (insuree.CoverageType == true) 
                 {
-                    insuree.Quote *= 1.50m;
+                    insuree.Quote *= 1.5m;
                 }
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
