@@ -50,6 +50,24 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = 50m;
+                if (DateTime.Now.Year - insuree.DateOFBirth.Year <= 18)
+                {
+                    insuree.Quote += 100;
+                }
+                if (DateTime.Now.Year - insuree.DateOFBirth.Year >= 19 && DateTime.Now.Year - insuree.DateOFBirth.Year <= 25)
+                {
+                    insuree.Quote += 50;
+                }
+                if (DateTime.Now.Year - insuree.DateOFBirth.Year >= 26)
+                {
+                    insuree.Quote += 25;
+                }
+
+                if(insuree.DUI)
+                {
+                    insuree.Quote *= 1.25m; 
+                }
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
