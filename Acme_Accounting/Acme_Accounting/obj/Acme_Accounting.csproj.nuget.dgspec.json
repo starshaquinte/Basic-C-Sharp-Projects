@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stars\\OneDrive\\Desktop\\Basic_C#_Programs\\Acme_Accounting\\Acme_Accounting\\Acme_Accounting.csproj": {}
+    "C:\\Users\\stars\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\Acme_Accounting\\Acme_Accounting\\Acme_Accounting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stars\\OneDrive\\Desktop\\Basic_C#_Programs\\Acme_Accounting\\Acme_Accounting\\Acme_Accounting.csproj": {
+    "C:\\Users\\stars\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\Acme_Accounting\\Acme_Accounting\\Acme_Accounting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stars\\OneDrive\\Desktop\\Basic_C#_Programs\\Acme_Accounting\\Acme_Accounting\\Acme_Accounting.csproj",
+        "projectUniqueName": "C:\\Users\\stars\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\Acme_Accounting\\Acme_Accounting\\Acme_Accounting.csproj",
         "projectName": "Acme_Accounting",
-        "projectPath": "C:\\Users\\stars\\OneDrive\\Desktop\\Basic_C#_Programs\\Acme_Accounting\\Acme_Accounting\\Acme_Accounting.csproj",
+        "projectPath": "C:\\Users\\stars\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\Acme_Accounting\\Acme_Accounting\\Acme_Accounting.csproj",
         "packagesPath": "C:\\Users\\stars\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stars\\OneDrive\\Desktop\\Basic_C#_Programs\\Acme_Accounting\\Acme_Accounting\\obj\\",
+        "outputPath": "C:\\Users\\stars\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\Acme_Accounting\\Acme_Accounting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

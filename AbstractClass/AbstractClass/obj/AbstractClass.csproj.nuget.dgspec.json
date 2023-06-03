@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stars\\source\\repos\\AbstractClass\\AbstractClass\\AbstractClass.csproj": {}
+    "C:\\Users\\stars\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\AbstractClass\\AbstractClass\\AbstractClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stars\\source\\repos\\AbstractClass\\AbstractClass\\AbstractClass.csproj": {
+    "C:\\Users\\stars\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\AbstractClass\\AbstractClass\\AbstractClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stars\\source\\repos\\AbstractClass\\AbstractClass\\AbstractClass.csproj",
+        "projectUniqueName": "C:\\Users\\stars\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\AbstractClass\\AbstractClass\\AbstractClass.csproj",
         "projectName": "AbstractClass",
-        "projectPath": "C:\\Users\\stars\\source\\repos\\AbstractClass\\AbstractClass\\AbstractClass.csproj",
+        "projectPath": "C:\\Users\\stars\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\AbstractClass\\AbstractClass\\AbstractClass.csproj",
         "packagesPath": "C:\\Users\\stars\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stars\\source\\repos\\AbstractClass\\AbstractClass\\obj\\",
+        "outputPath": "C:\\Users\\stars\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\AbstractClass\\AbstractClass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
