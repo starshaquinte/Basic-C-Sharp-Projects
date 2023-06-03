@@ -1,4 +1,11 @@
 # Basic-C-Sharp-Projects
-Repository to store your coding projects from C# and .NET course
+These are some small projects I made using C# and .NET Framework
 
-<h4> This repository contains projects from the C# and .NET course</h4>
+<h3>Projects:</h3>
+
+- Car Insurance
+  This project is an MVC web application that mimics a car insurance website. It takes user input on
+  policy information and calculates a quote based on business logic. There is also an admin page that 
+  allows staff to review all of the quotes that have been issued.
+  
+- 
