@@ -25,3 +25,53 @@ These are some small projects I made using C# and .NET Framework
     Created an anonymous income comparison program. Prints hourly rate and hours worked per week to 
     the console for user 1 and user 2.  Prints annual salary for both users and compares salary to 
     see who make the most. 
+    
+- **Acme_Accounting** 
+    **AbstractClass** 
+    ** CallingMethods ** 
+
+
+** ClassSubmisssion ** 
+
+** ConsoleApp ** 
+
+       
+
+ 
+
+-  **ConsoleAppArray** 
+     Created a console app with a one-dimensional array of strings and a one-dimensional Array of integers
+     The asking the user to select an index of each one to display to the screen. Also displays a message when
+     the user selects an index that doesn’t exist.
+   
+** ConsoleAppPartOne ** 
+
+** ConsoleAppStringsAndIntegers ** 
+
+** ConsoleApplication ** 
+
+** Constructors ** 
+** DateTime ** 
+
+       
+
+** FinalChallenge ** 
+
+** Lambda ** 
+
+** MainMethod ** 
+
+** MathAndComparisonAssignment ** 
+** MethodClass ** 
+
+** MethodSubmission ** 
+
+** MethodsAndObjects ** 
+
+** MyCoreApp ** 
+
+** Operators ** 
+
+** ParsingEnums ** 
+
+** Polymorphism ** 
